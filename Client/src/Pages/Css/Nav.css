@@ -1,0 +1,191 @@
+.home {
+    width: 100%;
+    height: 800px;
+    position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+
+.nav {
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+
+    display: flex;
+    justify-content: space-between;
+
+    width: 100%;
+    height: 60PX;
+    border-bottom: 1px solid #dadada;
+    background-color: rgba(255, 255, 255, 0.871);
+    transition: background-color 0.3s ease-in-out;
+}
+
+.navbar {
+    text-decoration: none;
+    color: black;
+
+    margin: 2.5vw;
+}
+.navbtn{
+    text-decoration: none;
+    color: black;
+
+    margin: 1.5vw;
+    background-color: rgb(27, 27, 227);
+  
+    padding: 0.5vw;
+    color: #ffffff;
+    border-radius: 2vh;
+    font-size:0.9vw;
+
+
+}
+.navbtn:hover{
+    color: black;
+    background-color: #a6a3d8;
+}
+.logop{
+    display: flex;
+}
+.tx{
+    font-weight: 200;
+    color: rgb(19, 19, 188);
+    font-style: oblique;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.logo1{
+    display: flex;
+}
+.logotxt{
+    margin-top: 3vw;
+    font-size: 1vw;
+    font-weight: 300;
+    color: rgb(71, 71, 215);
+    
+}
+.logo{
+    width: 8vw;
+    height: 6vh;
+    margin: 0.5vw;
+    padding: 0.5vw;
+}
+
+
+.hcontent {
+    width: 100%;
+    height: calc(800px - 60%);
+    display: flex;
+    flex: wrap;
+
+}
+
+.homtext {
+    width: 50%;
+    height: 50%;
+    margin: 3vw;
+    margin-top: 7vw;
+    padding: 4vw;
+  
+
+
+
+
+
+
+    /* background-color: blue; */
+
+}
+
+.homtext p {
+    margin-top: 3vw;
+    width: 95%;
+    /* font-weight: 300; */
+
+}
+.hpara{
+    height: 100%;
+    width: 80%;
+    
+    padding: 0.5vw;
+    font-weight:50;
+    margin-top: 3vw;
+    
+
+}
+
+.pbtn {
+    border: none;
+    padding: 1vw;
+    background-color: rgb(71, 71, 215);
+    border-radius: 3px;
+    color: aliceblue;
+    margin-left: 0.5vw;
+    margin-top: 1vh;
+}
+
+.hedtxt {
+    width: 80%;
+    margin-left: 0.7vw;
+}
+
+.hedtxt span {
+    color: rgb(71, 71, 215);
+
+}
+
+.homimg {
+    width: 50%;
+    height: 100%;
+    margin: 2vw;
+    padding: 2vw;
+}
+
+.homimg img {
+    width:110%;
+    margin-top: 1vw;
+    height:500px;
+   
+} 
+/* home2 */
+.home2{
+    width: 100%;
+    height: calc(800px - 500px);
+    display: flex;
+    margin-top: 5vh;
+}
+.hm1{
+    width: 50%;
+    height: 100%;
+    position: relative;
+    display: flex;
+}
+.hm2{
+    width: 50%;
+    height: 100%;
+}
+.h2img
+{
+    width:80%;
+    padding: 1vw;
+    margin-top: 15vw;
+    height:400px;
+
+}
+.h2text{
+    height: 100%;
+    width: 80%;
+    margin: 1vw;
+    padding: 0.5vw;
+    font-weight:50;
+    margin-top: 3vw;
+    
+
+}
+.hed2text{
+    width: 80%;
+    margin: 1vw;
+    padding: 0.5vw;
+    margin-top: 20vw;
+}

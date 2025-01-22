@@ -1,0 +1,109 @@
+.pccon{
+    width: 90%;
+    height: 400px;
+    /* position: relative; */
+   display: flex;
+   padding: 4vw;
+   margin: 3vw;
+  
+  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}    
+.pchild1{
+    width: 50%;
+
+
+
+}
+.cnimg{
+    width: 100%;
+    height: 100%;
+}
+.conpng{
+    width: 95%;
+    height: 100%;
+}
+.pchild2{
+    width: 50%;
+    height: 70%;
+    
+    
+     
+    padding: 3vw;
+    margin: 2vw;
+    margin-top: 10vh;
+
+    align-items: center;
+    border: none;
+    box-shadow: 2px 2px 2px 2px rgb(212, 212, 212);
+    
+
+}
+.cnhed{
+    width: 100%;
+    margin: 1vw;
+    margin-left: 12vw;
+}
+.ched{
+    margin: 1vw;
+    width: 90%;
+}
+.name{
+    margin: 0.5vw;
+    border: none;
+    margin-left: 8vw;
+   
+}
+.fname{
+    width: 20vw;
+    border:none;
+    padding: 0.8vw;
+    border-radius: 2vw;
+    color: rgb(146, 146, 146);
+    background-color: rgb(220, 220, 220);
+}
+.emai{
+    margin: 0.5vw;
+    border: none;
+    margin-left: 8vw;
+   
+
+}
+.ema1{
+    width: 20vw;
+    border:none;
+    padding: 0.8vw;
+    border-radius: 2vw;
+    color: rgb(146, 146, 146);
+    background-color: rgb(220, 220, 220);
+}
+.msg{
+    margin: 0.5vw;
+    border: none;
+    margin-left: 8vw;
+   
+}
+.msgp{
+    width: 20vw;
+    border:none;
+    padding: 0.8vw;
+    border-radius: 2vw;
+    color: rgb(146, 146, 146);
+    background-color: rgb(220, 220, 220);
+
+}
+.btn{
+    margin-left: 8vw;
+}
+
+.send{
+    border:none;
+    color: aliceblue;
+    background-color: blue;
+    padding: 0.8vw;
+    margin: 1vw;
+    width: 20vw;
+    border-radius: 2vw;
+    font-size: medium;
+    font-weight: bold;
+}

@@ -1,0 +1,60 @@
+/* src/Css/App.css */
+.tbparent {
+    width: 100%;
+    border-collapse: collapse;
+    max-height: 600px;
+    margin-left: 10vw;
+    margin-top: 20vh;
+  }
+  .tbchild{
+    width: 100;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  .thp{
+    width: 100;
+
+  }
+  .tdc{
+    padding: 1vh;
+    padding: 0.5vw;
+    width: 50%;
+  }
+  .tdp{
+    width: 100;
+
+  }
+  .thc{
+    padding: 1vh;
+    padding: 0.5vw;
+    width: 50%;
+  }
+  .tdce{
+    padding: 1vh;
+    padding: 0.5vw;
+    width: 50%;
+  }
+  .thce{
+    padding: 1vh;
+    padding: 0.5vw;
+    width: 50%;
+
+  }
+
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  tr:hover {
+    background-color: #f1f1f1;
+  }
+  

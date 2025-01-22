@@ -1,0 +1,53 @@
+.about{
+    width: 100%;
+    height: 500px;
+    position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.abcontent{
+    width: 100%;
+    height: calc(500px - 60px);
+    display: flex;
+}
+.abimg{
+    width: 50%;
+    height: 100%;
+}
+.abtext{
+    width: 50%;
+    height: 100%;
+    margin: 2vw;
+    padding: 1vw;
+    margin-top: 5vw;
+}
+.abhed{
+    width: 100%;
+    margin-left: 2vw;
+    margin-top: 7vw;
+
+}
+.abpara{
+    width: 80%;
+    margin: 2vw;
+    font-weight: 50;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.abhed span{
+    color: rgb(71, 71, 215);
+}
+.btnab{
+    border: none;
+    padding: 0.8vw;
+    background-color: rgb(37, 37, 188);
+    border-radius: 3px;
+    color: aliceblue;
+    margin-left: 2vw;
+
+}
+.aim{
+ margin-top: 4vw;
+ 
+
+    width: 100%;
+    height: 500px;
+}

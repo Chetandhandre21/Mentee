@@ -1,0 +1,86 @@
+/* .parentmen{
+  width: 100%;
+  height: 400px;
+
+}
+.childmen{
+  
+  width: 60%;
+  height: 300px;
+  margin: 2vh;
+  margin-top: 20vh;
+  margin-left: 20vw;
+  box-shadow: 2px 2px 3px 2px rgb(134, 134, 134);
+}
+.gg{
+  color: black;
+}
+.namemen{
+  width: 70%;
+  margin: 0.5vw;
+  padding: 0.3vh;
+
+
+}
+.men{
+  margin: 2vw;
+  width: 90%;
+  height: 15px;
+  font-weight: 100;
+  margin-top: 2vh;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} */
+
+.parentmen{
+  width: 100%;
+  height: 400px;
+
+}
+/* .childmen{
+  
+  width: 50%;
+  height: 300px;
+  margin: 2vh;
+  margin-top: 20vh;
+  margin-left: 20vw;
+  box-shadow: 2px 2px 3px 2px rgb(134, 134, 134);
+} */
+.rrp{
+  width: 50%;
+  height: 300px;
+  margin: 2vh;
+  margin-top: 20vh;
+  margin-left: 20vw;
+  display: flex;
+  border-radius: 5vw;
+  box-shadow: 2px 2px 3px 2px rgb(134, 134, 134);
+
+}
+.mp1{
+  width: 40%;
+  height: 80%;
+  margin-top: 4vh;
+  padding: 1vw;
+  border-radius: 5vw;
+
+}
+.pimg{
+  
+  width: 70%;
+  height: 60%;
+  margin-left: 10vw;
+  padding: 0.5vw;
+  margin: 0.5vw;
+  border-radius: 5vw;
+  box-shadow: 2px 2px 2px 2px rgb(211, 211, 211);
+}
+.mp2{
+  width: 60%;
+  height: 100%;
+}
+.line{
+  width: 100%;
+  font-size: 1.5vw;
+  font-weight: 200;
+  padding: 0.4vw;font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

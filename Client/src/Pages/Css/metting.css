@@ -1,0 +1,174 @@
+
+.parent{
+    width: 100%;
+    height: 500px;
+    position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+.child{
+    margin: 2vw;
+    margin-top: 20vh;
+    margin-left: 9vw;
+    width: 90%;
+    height: 500px;
+    position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+
+
+}
+.upcoming{
+    width: 80%;
+    height: 250px;
+    box-shadow: 2px 2px 3px  2px rgb(108, 106, 106);
+    margin: 4vh;
+    padding: 0.5vw;
+    display: flex;
+
+}
+.hedmeet{
+    margin-left: 30vw;
+    width: 30%;
+   
+}
+.hh22{
+    width: 50%;
+    height: 20px;
+    margin-bottom: 4vh;
+    background-color: blue;
+    color: aliceblue;
+    padding: 0.5vw;
+    font-weight: 50;
+    border-radius: 2vh;
+    padding: 0.8vw;
+    margin-top: 0.1vh;
+
+}
+
+.ucard1{
+    margin: 1vw;
+    padding: 0.5vw;
+    margin-left: 3vw;
+  
+
+    width: 25%;
+    height: 200px;
+    box-shadow: 2px 2px 3px 2px rgb(158, 154, 154);
+}
+.mimg{
+    width: 25%;
+    height:80px ;
+
+}
+.im{
+    width: 300%;
+    height:100px ;
+    margin: 0.1vw;
+    padding: 0.3vw;
+    margin-left: 1vw;
+
+}
+
+.mdata{
+    width: 100%;
+    height:50px ;
+    padding: 0.2vh;
+
+}
+.na{
+    width: 100%;
+    
+
+}
+.name11{
+    font-weight:400;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0.4vh;
+    margin-left: 0.1vw;
+    width: 100%;
+
+
+
+}
+.date{
+    font-weight:400;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0.4vh;
+
+}
+.att{
+    width: 50%;
+    padding: 0.4vw;
+    color: aliceblue;
+    background-color: rgb(34, 34, 177);
+    border: none;
+    border-radius: 2vh;
+
+}
+.ucard2{
+    margin: 1vw;
+    padding: 0.5vw;
+    margin-left: 3vw;
+  
+
+    width: 25%;
+    height: 200px;
+    box-shadow: 2px 2px 3px 2px rgb(158, 154, 154);
+}
+.ongoing{
+    width: 80%;
+    height: 250px;
+    box-shadow: 2px 2px 3px  2px rgb(108, 106, 106);
+    margin: 4vh;
+    padding: 0.5vw;
+    display: flex;
+
+}
+.ocard1{
+    margin: 1vw;
+    padding: 0.5vw;
+    margin-left: 3vw;
+  
+
+    width: 25%;
+    height: 200px;
+    box-shadow: 2px 2px 3px 2px rgb(158, 154, 154);
+}
+.ocard2{
+    margin: 1vw;
+    padding: 0.5vw;
+    margin-left: 3vw;
+  
+
+    width: 25%;
+    height: 200px;
+    box-shadow: 2px 2px 3px 2px rgb(158, 154, 154);
+}
+.past{
+    width: 80%;
+    height: 250px;
+    box-shadow: 2px 2px 3px  2px rgb(108, 106, 106);
+    margin: 4vh;
+    padding: 0.5vw;
+    display: flex;
+
+}
+.pcard1{
+    margin: 1vw;
+    padding: 0.5vw;
+    margin-left: 3vw;
+  
+
+    width: 25%;
+    height: 200px;
+    box-shadow: 2px 2px 3px 2px rgb(158, 154, 154);
+}
+.pcard2{
+    margin: 1vw;
+    padding: 0.5vw;
+    margin-left: 3vw;
+  
+
+    width: 25%;
+    height: 200px;
+    box-shadow: 2px 2px 3px 2px rgb(158, 154, 154);
+}

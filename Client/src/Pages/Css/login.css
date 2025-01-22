@@ -1,0 +1,167 @@
+.logp{
+    width: 100%;
+    height: 500px;
+    position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+.par{
+    width: 100%;
+    height: 500px;
+    position: relative;
+    display: flex;
+}
+/* .one{
+    width:50%;
+    height: 300px;
+    background-color: aquamarine;
+    box-shadow: 2px 2px 4px 2px black;
+    margin: 1vw;
+    margin-left: 3vw;
+    
+
+} */
+.two{
+    width: 80%;
+    height: 480px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 4px 2px rgb(177, 27, 27);
+    margin: 2vw;
+    margin-left: 10vw;
+    display: flex;
+    position: relative;
+    margin-top: 13vh;
+    box-shadow: 2px 2px 4px 2px rgb(213, 213, 213);
+    
+}
+.one1{
+    position: absolute;
+    z-index:34;
+    width:30%;
+    height: 310px;
+    background-color: rgb(49, 51, 189);
+    box-shadow: 2px 2px 4px 2px rgb(201, 201, 201);
+    margin: 1vw;
+    margin-left: 13vw;
+    margin-top: 17vh;
+    border-radius: 1vh;
+
+}
+.hed90{
+    width: 100%;
+}
+.hedee15{
+    width: 100%;
+    margin: 2vw;
+    padding: 0.5vw;
+    margin-left: 7vw;
+    color: aliceblue;
+    /* margin-left:-20vw; */
+
+}
+.id{
+    width: 100%;
+}
+.idn{
+    width: 60%;
+    margin: 1vw;
+    padding: 0.5vw;
+    margin-left: 4vw;
+    border: none;
+    border-radius: 0.5vw;
+    background-color: rgb(236, 236, 236);
+    color: rgb(131, 131, 132);
+
+
+
+}
+.pass{
+    width: 100%;
+
+}
+.passe{
+    width: 60%;
+    margin: 1vw;
+    padding: 0.5vw;
+    margin-left: 4vw;
+    border: none;
+    border-radius: 0.5vw;
+    background-color: rgb(236, 236, 236);
+    color: rgb(131, 131, 132);
+
+    
+
+}
+.btnl33{
+    margin: 0.5vw;
+    padding: 0.5vw;
+    margin-left: 4vw;
+    border: none;
+    width: 85%;
+
+  
+}
+.caption35{
+    margin: 1vw;
+    font-weight: 400;
+    margin-top: 2vh;
+    color: aliceblue;
+    margin-left: 5vw;
+}
+.caption35:hover{
+    color: black;
+}
+.login22{
+    width: 30%;
+    margin: 1vw;
+    padding: 0.5vw;
+    margin-left: 4vw;
+    border: none;
+    border-radius: 0.5vw;
+   
+    color: rgb(255, 255, 255);
+    background-color: rgb(7, 11, 126);
+    padding: 1vW;
+    font-weight:200;
+    font-size: 1VW;
+    
+
+
+}
+.login22:hover{
+    color: rgb(19, 7, 189);
+    background-color: rgb(255, 255, 255);
+    font-weight:500;
+}
+
+.one11{
+    position: absolute;
+    
+    z-index: 5;
+    width:35%;
+    height: 380px;
+/* background-image: url("/img/loginimg.jpg");
+ background-size:cover; */
+   
+    box-shadow: 0.5px 0.5px 5px 1px rgb(35, 62, 211);
+    margin: 1vw;
+    margin-left: 35vw;
+    border-radius: 2px;
+    margin-top: 10vh;
+
+
+
+
+}
+.hedo1{
+    width:100%;
+   
+}
+.hed11{
+    width: 50%;
+    margin-left: 5vw;
+   
+}
+.oneimg{
+    width: 100%;
+
+}
